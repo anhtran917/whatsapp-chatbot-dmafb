@@ -1,9 +1,7 @@
 WhatApp OpenAI-API Chatbot
 ==============================
 
-[![Build and deploy Python app to Azure Web App - openai-chatbot](https://github.com/simonsanvil/openai-whatsapp-chatbot/actions/workflows/master_openai-chatbot.yml/badge.svg)](https://github.com/simonsanvil/openai-whatsapp-chatbot/actions/workflows/master_openai-chatbot.yml)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/simonsanvil/openai-whatsapp-chatbot/blob/master/notebooks/chatbot_demo-colab.ipynb)
+[![Build and deploy Python app to Azure Web App - openai-chatbot](https://github.com/anhtran917/whatsapp-chatbot-dmafb/actions/workflows/master_openai-chatbot.yml/badge.svg)](https://github.com/anhtran917/whatsapp-chatbot-dmafb/actions/workflows/master_openai-chatbot.yml)
 
 
 A chatbot that uses OpenAI's API to reply to incoming text and voice messages from WhatsApp with their GPT3-based language models (Davinci, Ada, Babbage, ...) and to generate images with [DALL-E 2](https://openai.com/dall-e-2/).
@@ -20,7 +18,7 @@ Requires a valid key to [OpenAI's API](https://openai.com/api/).
 Installation
 ------
 ```bash
-git clone https://github.com/simonsanvil/openai-whatsapp-chatbot
+git clone https://github.com/anhtran917/whatsapp-chatbot-dmafb
 pip install -r requirements.txt
 ``` 
 
